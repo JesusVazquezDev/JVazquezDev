@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Security and Cyber Security as a whole
 - 🌱 I’m currently learning AI, Operating Systems, C++
 - 💞️ I’m looking to collaborate on iOS Security Research, Risk Assessments and testing.
-- 📫 You can reach me at info@jesusvazquez.dev or via Linkedin https://www.linkedin.com/in/jesusvazquezdev/
+- 📫 You can reach me at info@jesusvazquez.dev or via https://www.linkedin.com/in/jesusvazquezdev/
 
 <!---
 JVazquezDev/JVazquezDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
