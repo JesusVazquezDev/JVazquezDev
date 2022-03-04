@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JVazquezDev
-- 👀 I’m interested in Software Security
+- 👋 Hi, I’m Jesus!
+- 👀 I’m interested in Software Security and Cyber Security as a whole
 - 🌱 I’m currently learning AI, Operating Systems, C++
-- 💞️ I’m looking to collaborate on iOS Security Research
-- 📫 You can reach me at jesus@jesusvazquez.dev
+- 💞️ I’m looking to collaborate on iOS Security Research, Risk Assessments and testing.
+- 📫 You can reach me at info@jesusvazquez.dev
 
 <!---
 JVazquezDev/JVazquezDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
