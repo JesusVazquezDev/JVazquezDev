@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesus!
 - 👀 I’m interested in Software Security and OS Security.
-- 🌱 I’m currently learning Operating Systems 
+- 🌱 I’m currently training for COMPTIA Security+
 - 📫 You can reach me at info@jesusvazquez.dev or via https://www.linkedin.com/in/jesusvazquezdev/
 
 <!---
