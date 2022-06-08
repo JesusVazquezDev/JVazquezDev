@@ -6,7 +6,7 @@ Aspiring OS/Software Security Engineer
 Preparing myself for a career in OS/Software Security. 
 
 *   🌍  I'm based in Madison, Wisconsin. Planning on moving after Fall 2022. 
-*   🚀  Currently developing [My Website](http://jesusvazquez.dev)
+*   🚀  Currently developing [My Website](http://jesusvazquez.dev) ( work in progress ) 
 *   🧠  I'm training for CompTIA A+, Network+, Security+, and CySy+ exams.
 *   👀 I’m interested in Software Security and OS Security.
 *   ✉️  Lets Connect! 
