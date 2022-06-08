@@ -7,18 +7,17 @@
 Hi 👋 My name is Jesus Vazquez
 ==============================
 
-OS Security Engineer
+Aspiring OS/Software Security Engineer
 --------------------
 
-I have been focused on school for as long as I remember. Ready to dive into a CyberSecurity Career.
+Preparing myself for a career in OS/Software Security. 
 
-*   🌍  I'm based in Madison, Wisconsin
-*   🖥️  See my portfolio at [Portfolio](http://jesusvazquez.dev)
-*   ✉️  You can contact me at [jesusvazquez52193@gmail.com](mailto:jesusvazquez52193@gmail.com)
-*   🚀  I'm currently working on [My Website](http://jesusvazquez.dev)
-*   🧠  I'm learning CompTIA A+, Network+, Security+, CySy+
-*   🤝  I'm open to collaborating on Just about anything
-*   ⚡  I'm secretly enjoy hacking iPhones.<a href="https://www.twitter.com/jesusvazquezdev" target="_blank" rel="noreferrer"><img
+*   🌍  I'm based in Madison, Wisconsin currently. Planning on moving after Fall 2022. 
+*   🚀  Currently developing [My Website](http://jesusvazquez.dev)
+*   🧠  I'm training for CompTIA A+, Network+, Security+, and CySy+ exams.
+*   ✉️  Lets Connect![Email](mailto:jesusvazquez52193@gmail.com) [Linkedin](https://linkedin.com/in/jesusvazquezdev) [Twitter](https://twitter.com/jesusvazquezdev)
+
+<a href="https://www.twitter.com/jesusvazquezdev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/jesusvazquezdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/jesusvazquezdev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/jesusvazquezdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
