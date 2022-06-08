@@ -15,7 +15,8 @@ Preparing myself for a career in OS/Software Security.
 *   🌍  I'm based in Madison, Wisconsin currently. Planning on moving after Fall 2022. 
 *   🚀  Currently developing [My Website](http://jesusvazquez.dev)
 *   🧠  I'm training for CompTIA A+, Network+, Security+, and CySy+ exams.
-*   ✉️  Lets Connect![Email](mailto:jesusvazquez52193@gmail.com) [Linkedin](https://linkedin.com/in/jesusvazquezdev) [Twitter](https://twitter.com/jesusvazquezdev)
+*   ✉️  Lets Connect! 
+[Email](mailto:jesusvazquez52193@gmail.com)   [Linkedin](https://linkedin.com/in/jesusvazquezdev)   [Twitter](https://twitter.com/jesusvazquezdev)
 
 <a href="https://www.twitter.com/jesusvazquezdev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/jesusvazquezdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
