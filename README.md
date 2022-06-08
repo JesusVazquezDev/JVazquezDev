@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Jesus!
-- 👀 I’m interested in Software Security and OS Security.
-- 🌱 I’m currently training for COMPTIA Security+
-- 📫 You can reach me at info@jesusvazquez.dev or via https://www.linkedin.com/in/jesusvazquezdev/
-
-
-Hi 👋 My name is Jesus Vazquez
+Hello there 👋, My name is Jesus Vazquez
 ==============================
-
 Aspiring OS/Software Security Engineer
 --------------------
 
@@ -15,8 +8,11 @@ Preparing myself for a career in OS/Software Security.
 *   🌍  I'm based in Madison, Wisconsin currently. Planning on moving after Fall 2022. 
 *   🚀  Currently developing [My Website](http://jesusvazquez.dev)
 *   🧠  I'm training for CompTIA A+, Network+, Security+, and CySy+ exams.
+*   👀 I’m interested in Software Security and OS Security.
 *   ✉️  Lets Connect! 
-[Email](mailto:jesusvazquez52193@gmail.com)   [Linkedin](https://linkedin.com/in/jesusvazquezdev)   [Twitter](https://twitter.com/jesusvazquezdev)
+[Email](mailto:jesusvazquez52193@gmail.com)   
+[Linkedin](https://linkedin.com/in/jesusvazquezdev)   
+[Twitter](https://twitter.com/jesusvazquezdev)
 
 ### Skills
 
