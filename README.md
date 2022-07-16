@@ -9,8 +9,7 @@ Preparing myself for a career in OS/Software Security.
 *   🚀  Currently developing [My Website](http://jesusvazquez.dev) ( work in progress ) 
 *   🧠  I'm training for CompTIA A+, Network+, Security+, and CySy+ exams.
 *   👀 I’m interested in Software Security and OS Security.
-*   ✉️  Lets Connect! 
-[Email](mailto:jesusvazquez52193@gmail.com)   
+*   ✉️  Lets [Connect](mailto:jesusvazquez52193@gmail.com) !
 [Linkedin](https://linkedin.com/in/jesusvazquezdev)   
 [Twitter](https://twitter.com/jesusvazquezdev)
 
