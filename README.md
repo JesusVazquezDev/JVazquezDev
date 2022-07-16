@@ -11,7 +11,7 @@ Preparing myself for a career in OS/Software Security.
 *   👀  I’m interested in Application Security and OS Security.
 *   ✉️ [Lets Connect](mailto:jesusvazquez52193@gmail.com)!
 *   📓 [Linkedin](https://linkedin.com/in/jesusvazquezdev)   
-*   🐦[Twitter](https://twitter.com/jesusvazquezdev)
+*   🐦 [Twitter](https://twitter.com/jesusvazquezdev)
 
 ### Skills
 <p align="left">
