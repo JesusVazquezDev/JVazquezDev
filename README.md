@@ -4,6 +4,7 @@ Aspiring OS/Application Security Engineer
 --------------------
 
 Preparing myself for a career in OS/Software Security. 
+Aiming to find and exploit vulnerabilities on tryhackme, hackthebox and vulnhub for 60 days straight. 
 
 *   🌍  I'm based in Madison, Wisconsin. Planning on moving after Fall 2022. 
 *   🚀  Currently developing [My Website](http://jesusvazquez.dev) and uploading past projects as time permits. 
