@@ -3,11 +3,11 @@ Hello there 👋, I'm Jesús 😄!
 Aspiring OS/Application Security Engineer
 --------------------
 
-Preparing myself for a career in OS/Software Security. 
-Aiming to find and exploit vulnerabilities on tryhackme, hackthebox and vulnhub for 60 days straight. 
+Preparing myself for a career in Cyber/Software Security. 
+Currently working on finding and exploiting vulnerabilities on tryhackme, hackthebox and vulnhub for 60 days straight. 
 
-*   🌍  I'm based in Madison, Wisconsin. Planning on moving after Fall 2022. 
-*   🚀  Currently developing [My Website](http://jesusvazquez.dev) and uploading past projects as time permits. 
+*   🌍  I'm based in Madison, Wisconsin. Planning on moving soon!  
+*   🚀  Currently learning Vue to further develope [My Website](http://jesusvazquez.dev). Also uploading past University projects as time permits. 
 *   👀  I’m deeply interested in OS Security(Software Security Overall).
 *   ✉️ [Send me an email inquiry](mailto:jesusvazquez52193@gmail.com)!
 *   📓 [Linkedin](https://linkedin.com/in/jesusvazquezdev)   
