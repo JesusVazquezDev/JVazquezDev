@@ -1,11 +1,7 @@
-Hello there 👋, I'm Jesús 😄!
+Hello 👋!
 ==============================
 Information Security Engineer 
 --------------------
-
-Preparing myself for a career in Cyber/Software Security. 
-Currently working on finding and exploiting vulnerabilities on tryhackme, hackthebox and vulnhub for 60 days straight. 
-
 *   🌍  I'm based in RTP, North Carolina!
 *   🚀  Currently learning Vue to further develop [My Website](http://jesusvazquez.dev). Also uploading past University projects as time permits. 
 *   👀  I’m deeply interested in OS Security(Software Security Overall).
