@@ -1,8 +1,6 @@
 # Welcome to my Portfolio!
 Actively learning about Software Security Engineering & Architecture
 
-*   📓 [Reach out via Linkedin](https://linkedin.com/in/jesusvazquezdev)
-  
 ------------------------------
 ### Tech Stack
 <p align="left">
@@ -14,3 +12,5 @@ Actively learning about Software Security Engineering & Architecture
 </p>
 
 ------------------------------
+### Lets work together! 
+📓 [Reach out via Linkedin](https://linkedin.com/in/jesusvazquezdev)
