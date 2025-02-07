@@ -1,7 +1,5 @@
 Hello 👋!
 ==============================
-Information Security Engineer 
---------------------
 Actively learning about Software Security Engineering & Architecture
 
 *   📓 [Reach out via Linkedin](https://linkedin.com/in/jesusvazquezdev)   
