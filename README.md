@@ -2,11 +2,9 @@ Hello 👋!
 ==============================
 Information Security Engineer 
 --------------------
-*   🌍  I'm based in RTP, North Carolina!
-*   🚀  Currently learning Vue to further develop [My Website](http://jesusvazquez.dev). Also uploading past University projects as time permits. 
-*   👀  I’m deeply interested in OS Security(Software Security Overall).
-*   ✉️ [Send me an email inquiry](mailto:jesusvazquez52193@gmail.com)!
-*   📓 [Linkedin](https://linkedin.com/in/jesusvazquezdev)   
+Actively learning about Software Security Engineering & Architecture
+
+*   📓 [Reach out via Linkedin](https://linkedin.com/in/jesusvazquezdev)   
 
 ### Skills
 <p align="left">
